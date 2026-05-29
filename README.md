@@ -18,3 +18,7 @@
 * Join us on IRC, #lizmap on https://libera.chat
 * Open a GitHub tickets on https://github.com/3liz/lizmap-pgrouting-module/issues
 * Commercial support through 3Liz , [contact us](mailto:info@3liz.com?subject=CommercialSupportRequest)
+
+Ajouts de fonctions de téléchargement des itinéraires le 06/05/2026
+
+Stabilisation des icônes le 29/06/2026 : suppressions des deux blocs copier et télécharger dans le css + ajout des liens svg dans le js. 
